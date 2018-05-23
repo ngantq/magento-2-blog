@@ -7,10 +7,10 @@ There are 2 different solutions to install Mageplaza extensions:
 
 ## Important:
 - We recommend you to duplicate your live store on a staging/test site and try installation on it in advanced.
-- Backup magento files and the store database.
-- This extension requires [Mageplaza_Core](https://github.com/mageplaza/module-core) installed first.
+- Back up magento files and the store database.
+- This extension requires [Mageplaza_Core](https://github.com/mageplaza/module-core) to be installed first.
 
-You will get an error, if **Mageplaza_Core** not installed.
+You will get an error, if **Mageplaza_Core** is not installed.
 
 ## Solution #1. Install via Composer (Recommend)
 
